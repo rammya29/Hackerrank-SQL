@@ -32,3 +32,31 @@ SQL solutions are updated here
 4. [Binary Tree Nodes](https://github.com/rammya29/Hackerrank-SQL/blob/main/Binary%20Tree%20Nodes.sql)
 5. [New Companies](https://github.com/rammya29/Hackerrank-SQL/blob/main/New%20Companies.sql)
 
+## Aggregation Challenge
+1. [Revising Aggregations - The Count Function]()
+2. [Revising Aggregations - The Sum Function]()
+3. [Revising Aggregations - Averages]()
+4. [Average Population]()
+5. [Japan Population]()
+6. [Population Density Difference]()
+7. [The Blunder]()
+8. [Top Earners]()
+9. [Weather Observation Station 2]()
+10. [Weather Observation Station 13]()
+11. [Weather Observation Station 14]()
+12. [Weather Observation Station 15]()
+13. [Weather Observation Station 16]()
+14. [Weather Observation Station 17]()
+15. [Weather Observation Station 18]()
+16. [Weather Observation Station 19]()
+17. [Weather Observation Station 20]()
+
+## Basic Join
+1. [Asian Population]()
+2. [African Cities]()
+3. [Average Population of Each Continent]()
+4. [The Report]()
+5. [Top Competitors]()
+6. [Ollivander's Inventory]()
+7. [Challenges]()
+
