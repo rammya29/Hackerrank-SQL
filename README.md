@@ -17,7 +17,7 @@ SQL solutions are updated here
 11. [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)
 12. [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)
 13. [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)
-14. [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)
+14. [Weather Observation Station 9](https://github.com/rammya29/Hackerrank-SQL/commit/d12f75c1285f562837dfca7022abbb371f183dea)
 15. [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)
 16. [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem)
 17. [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)
