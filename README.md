@@ -24,3 +24,11 @@ SQL solutions are updated here
 18. [Higher Than 75 Marks](https://github.com/rammya29/Hackerrank-SQL/blob/main/Higher%20Than%2075%20Marks.sql)
 19. [Employee Names](https://github.com/rammya29/Hackerrank-SQL/blob/main/Employee%20Names.sql)
 20. [Employee Salaries](https://github.com/rammya29/Hackerrank-SQL/blob/main/Employee%20Salaries.sql)
+
+# Advance Select
+1. [Type of Triangle]()
+2. [The PADS]()
+3. [Occupations]()
+4. [Binary Tree Nodes]()
+5. [New Companies]()
+
