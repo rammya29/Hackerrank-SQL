@@ -5,7 +5,7 @@ SQL solutions are updated here
 
 ## Basic Select
 1. [Revising the Select Query I](https://github.com/rammya29/Hackerrank-SQL/blob/main/Revising%20the%20Select%20Query%20I.sql)
-2. [Revising the Select Query II]((https://github.com/rammya29/Hackerrank-SQL/blob/main/Revising%20the%20Select%20Query%20II.sql)
+2. [Revising the Select Query II](https://github.com/rammya29/Hackerrank-SQL/blob/main/Revising%20the%20Select%20Query%20II.sql)
 3. [Select All](https://github.com/rammya29/Hackerrank-SQL/blob/main/Select%20All.sql)
 4. [Select By ID](https://github.com/rammya29/Hackerrank-SQL/blob/main/Select%20By%20ID.sql)
 5. [Japanese Cities' Attributes](https://github.com/rammya29/Hackerrank-SQL/blob/main/Japanese%20Cities'%20Attributes.sql)
