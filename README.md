@@ -25,10 +25,10 @@ SQL solutions are updated here
 19. [Employee Names](https://github.com/rammya29/Hackerrank-SQL/blob/main/Employee%20Names.sql)
 20. [Employee Salaries](https://github.com/rammya29/Hackerrank-SQL/blob/main/Employee%20Salaries.sql)
 
-# Advance Select
-1. [Type of Triangle]()
-2. [The PADS]()
-3. [Occupations]()
-4. [Binary Tree Nodes]()
-5. [New Companies]()
+## Advance Select
+1. [Type of Triangle](https://github.com/rammya29/Hackerrank-SQL/blob/main/Type%20of%20Triangle.sql)
+2. [The PADS](https://github.com/rammya29/Hackerrank-SQL/blob/main/The%20PADS.sql)
+3. [Occupations](https://github.com/rammya29/Hackerrank-SQL/blob/main/Occupations.sql)
+4. [Binary Tree Nodes](https://github.com/rammya29/Hackerrank-SQL/blob/main/Binary%20Tree%20Nodes.sql)
+5. [New Companies](https://github.com/rammya29/Hackerrank-SQL/blob/main/New%20Companies.sql)
 
