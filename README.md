@@ -52,11 +52,11 @@ SQL solutions are updated here
 17. [Weather Observation Station 20](https://github.com/rammya29/Hackerrank-SQL/blob/main/Weather%20Observation%20Station%2020.sql)
 
 ## Basic Join
-1. [Asian Population]()
-2. [African Cities]()
-3. [Average Population of Each Continent]()
-4. [The Report]()
-5. [Top Competitors]()
-6. [Ollivander's Inventory]()
-7. [Challenges]()
+1. [Population Census](https://github.com/rammya29/Hackerrank-SQL/blob/main/Population%20Census.sql)
+2. [African Cities](https://github.com/rammya29/Hackerrank-SQL/blob/main/African%20Cities.sql)
+3. [Average Population of Each Continent](https://github.com/rammya29/Hackerrank-SQL/blob/main/Average%20Population%20of%20Each%20Continent.c)
+4. [The Report](https://github.com/rammya29/Hackerrank-SQL/blob/main/The%20Report.sql)
+5. [Top Competitors](https://github.com/rammya29/Hackerrank-SQL/blob/main/Top%20Competitors.sql)
+6. [Ollivander's Inventory](https://github.com/rammya29/Hackerrank-SQL/blob/main/Ollivander's%20Inventory.sql)
+7. [Challenges](https://github.com/rammya29/Hackerrank-SQL/blob/main/Challenges.sql)
 
