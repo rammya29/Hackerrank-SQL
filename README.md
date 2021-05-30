@@ -54,7 +54,7 @@ SQL solutions are updated here
 ## Basic Join
 1. [Population Census](https://github.com/rammya29/Hackerrank-SQL/blob/main/Population%20Census.sql)
 2. [African Cities](https://github.com/rammya29/Hackerrank-SQL/blob/main/African%20Cities.sql)
-3. [Average Population of Each Continent](https://github.com/rammya29/Hackerrank-SQL/blob/main/Average%20Population%20of%20Each%20Continent.c)
+3. [Average Population of Each Continent](https://github.com/rammya29/Hackerrank-SQL/blob/main/Average%20Population%20of%20Each%20Continent.sql)
 4. [The Report](https://github.com/rammya29/Hackerrank-SQL/blob/main/The%20Report.sql)
 5. [Top Competitors](https://github.com/rammya29/Hackerrank-SQL/blob/main/Top%20Competitors.sql)
 6. [Ollivander's Inventory](https://github.com/rammya29/Hackerrank-SQL/blob/main/Ollivander's%20Inventory.sql)
